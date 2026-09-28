@@ -2,9 +2,13 @@
 
 An interactive study console for the **Claude Certified Architect – Foundations (CCAR-F)** exam, in one self-contained web page ([`index.html`](index.html)).
 
-## Open it
+## ▶ [Play the simulator](https://gealdr420.github.io/claude_Architect_simulator/)
 
-Download or clone the repo and open `index.html` in any modern browser. It needs no install or server; it only loads fonts from Google Fonts. Your study progress and drill score are saved in that browser.
+**Live link:** https://gealdr420.github.io/claude_Architect_simulator/. It opens in any modern browser, with no install or sign-in.
+
+## Other ways to open it
+
+Download `index.html` and open it in any modern browser. It needs no install or server; it only loads fonts from Google Fonts. Your study progress and drill score are saved in that browser.
 
 ## What's inside
 
